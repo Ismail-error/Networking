@@ -2,7 +2,6 @@
 
 Checklist:
 
-Buy a domain (Cloudflare or Route53)
-
+-Buy a domain (Cloudflare or Route53)
 -Deploy an EC2 instance running NGINX
 -Create an A record pointing your domain to your EC2 instance
